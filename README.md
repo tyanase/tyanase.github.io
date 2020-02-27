@@ -1,1 +1,0 @@
-# tyanase.github.io
