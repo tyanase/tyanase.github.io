@@ -1,2 +1,2 @@
 # Tomoro Yanase's Homepage
-# 譟ｳ轢ｬ蜿区恬縺ｮ繝帙�ｼ繝繝壹�ｼ繧ｸ
+# 柳瀬友朗のホームページ
