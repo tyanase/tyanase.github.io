@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://tyanase.github.io/sitemap.xml
