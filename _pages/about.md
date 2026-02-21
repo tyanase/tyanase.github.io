@@ -20,7 +20,6 @@ announcements:
 selected_papers: false
 ---
 
-### Current Positions
 Assistant Professor, University of Hyogo, Kobe, Japan
 
 Alexander von Humboldt Research Fellow, Max Planck Institute for Meteorology, Hamburg, Germany

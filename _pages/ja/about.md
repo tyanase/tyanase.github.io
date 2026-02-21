@@ -19,8 +19,6 @@ announcements:
 selected_papers: false
 ---
 
-### 所属
-
 兵庫県立大学 情報科学研究科 助教
 
 アレクサンダー・フォン・フンボルト財団 研究フェロー  
