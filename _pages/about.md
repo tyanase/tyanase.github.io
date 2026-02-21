@@ -4,6 +4,7 @@ title: About
 permalink: /
 nav: true
 nav_order: 1
+lang: en
 subtitle: Atmospheric Scientist | Tropical Dynamics and Convective Organization
 
 profile:
