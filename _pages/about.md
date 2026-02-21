@@ -9,9 +9,12 @@ subtitle: Atmospheric Scientist | Tropical Dynamics and Convective Organization
 profile:
   align: right
   image: profile.jpg
-  image_circular: false
+  image_circular: true
 
-news: true
+announcements:
+  limit: 5
+  scrollable: true
+
 selected_papers: false
 ---
 
