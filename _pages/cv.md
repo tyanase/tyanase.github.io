@@ -10,7 +10,7 @@ nav_order: 3
 
 - [Curriculum Vitae (PDF)](/assets/cv/CurriculumVitae_TomoroYanase.pdf)
 
----
+***
 
 For the most up-to-date record of publications, please refer to:
 - [Google Scholar](https://scholar.google.com/citations?user=CZm4dNoAAAAJ)

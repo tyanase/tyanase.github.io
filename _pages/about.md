@@ -36,7 +36,7 @@ Through theoretical modeling and cloud-resolving numerical experiments, I invest
 
 I am particularly interested in developing physically transparent dynamical frameworks that bridge cloud-scale processes and planetary-scale circulation.
 
----
+***
 
 ## Research Approach
 
@@ -49,7 +49,7 @@ My work integrates:
 
 The goal is to deepen the fundamental understanding of cloud–climate interactions from first principles.
 
----
+***
 
 ## Profiles & External Links
 
@@ -65,21 +65,21 @@ The goal is to deepen the fundamental understanding of cloud–climate interacti
 
 A complete and continuously updated list of publications is available through the services above.
 
----
+***
 
 ## CV
 
 - [Download CV (PDF)](/assets/cv/CV_TomoroYanase.pdf)  
 - [Download CV (Word)](/assets/cv/CV_TomoroYanase.docx)
 
----
+***
 
 ## Community & Service
 
 - [SCALE](https://scale.riken.jp/ja/) – atmospheric model development and user community  
 - Professional societies and collaborative research networks  
 
----
+***
 
 ## Ideas (Informal Notes)
 
