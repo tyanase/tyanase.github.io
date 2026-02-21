@@ -2,7 +2,7 @@
 layout: default
 permalink: /blog/
 title: Ideas
-nav: true
+nav: false
 nav_order: 4
 pagination:
   enabled: true

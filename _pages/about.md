@@ -15,12 +15,13 @@ news: true
 selected_papers: false
 ---
 
-### Understanding how moist convection organizes the tropical atmosphere.
-
 ### Current Positions
 Assistant Professor, University of Hyogo, Kobe, Japan
-Visiting Researcher (2025–2026), Max Planck Institute for Meteorology, Hamburg, Germany
-Alexander von Humboldt Research Fellow
+
+Alexander von Humboldt Research Fellow (2025–2026), Max Planck Institute for Meteorology, Hamburg, Germany
+
+
+### Understanding how moist convection organizes the climate system
 
 I am an atmospheric scientist studying tropical dynamics and the large-scale organization of moist convection.  
 My research seeks to clarify how small-scale convective processes interact with large-scale circulation to shape climate structure and variability.
@@ -28,11 +29,11 @@ My research seeks to clarify how small-scale convective processes interact with 
 A central theme of my work is the self-organization of clouds and moist convection in idealized climate systems.  
 Through theoretical modeling and cloud-resolving numerical experiments, I investigate fundamental mechanisms governing:
 
-- Convective self-aggregation  
-- ITCZ formation and variability  
-- Hadley circulation dynamics  
-- Radiative–convective equilibrium (RCE)  
-- Moisture–circulation feedback processes  
+- Convective self-aggregation
+- Radiative–convective equilibrium (RCE)
+- Moisture–circulation feedback processes
+- ITCZ formation and variability
+- Hadley–Walker circulation dynamics
 
 I am particularly interested in developing physically transparent dynamical frameworks that bridge cloud-scale processes and planetary-scale circulation.
 
@@ -69,8 +70,7 @@ A complete and continuously updated list of publications is available through th
 
 ## CV
 
-- [Download CV (PDF)](/assets/cv/CV_TomoroYanase.pdf)  
-- [Download CV (Word)](/assets/cv/CV_TomoroYanase.docx)
+- [Download CV (PDF)](/assets/cv/CurriculumVitae_TomoroYanase.pdf)
 
 ***
 
