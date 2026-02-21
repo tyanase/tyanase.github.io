@@ -1,12 +1,17 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: CV
 nav: true
-nav_order: 5
-cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+nav_order: 3
 ---
+
+## Download
+
+- [Curriculum Vitae (PDF)](/assets/cv/CurriculumVitae_TomoroYanase.pdf)
+
+---
+
+For the most up-to-date record of publications, please refer to:
+- [Google Scholar](https://scholar.google.com/citations?user=CZm4dNoAAAAJ)
+- [researchmap](https://researchmap.jp/yanase_t/?lang=ja)
