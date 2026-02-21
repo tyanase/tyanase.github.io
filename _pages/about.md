@@ -18,8 +18,9 @@ selected_papers: false
 ### Current Positions
 Assistant Professor, University of Hyogo, Kobe, Japan
 
-Alexander von Humboldt Research Fellow (2025–2026), Max Planck Institute for Meteorology, Hamburg, Germany
+Alexander von Humboldt Research Fellow, Max Planck Institute for Meteorology, Hamburg, Germany
 
+***
 
 ### Understanding how moist convection organizes the climate system
 
@@ -49,35 +50,6 @@ My work integrates:
 - High-performance computing for large-scale numerical experiments  
 
 The goal is to deepen the fundamental understanding of cloud–climate interactions from first principles.
-
-***
-
-## Profiles & External Links
-
-- [Google Scholar](https://scholar.google.com/citations?user=CZm4dNoAAAAJ)
-- [researchmap](https://researchmap.jp/yanase_t/?lang=ja)
-- [ResearchGate](https://www.researchgate.net/profile/Tomoro_Yanase)
-- [ORCID](https://orcid.org/0000-0003-2788-9092)
-- [Publons](https://publons.com/researcher/4230700/tomoro-yanase/)
-- [GitHub](https://github.com/tyanase)
-- [Twitter](https://twitter.com/tomoroyanase)
-- [Facebook](https://www.facebook.com/tomorou.yanase)
-- [LinkedIn](https://www.linkedin.com/in/tomoro-yanase-579a96321/)
-
-A complete and continuously updated list of publications is available through the services above.
-
-***
-
-## CV
-
-- [Download CV (PDF)](/assets/cv/CurriculumVitae_TomoroYanase.pdf)
-
-***
-
-## Community & Service
-
-- [SCALE](https://scale.riken.jp/ja/) – atmospheric model development and user community  
-- Professional societies and collaborative research networks  
 
 ***
 
