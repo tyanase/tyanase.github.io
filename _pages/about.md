@@ -12,6 +12,7 @@ profile:
   image_circular: true
 
 announcements:
+  enabled: true
   limit: 5
   scrollable: true
 
