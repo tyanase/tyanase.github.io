@@ -59,7 +59,7 @@ Faculty of Integrated Human Studies, Kyoto University
 
 ***
 
-## Awards (Selected)
+## Awards, Fellowships (Selected)
 
 **Oct 2025 – present**  
 Alexander von Humboldt Research Fellowship  
