@@ -5,7 +5,7 @@ permalink: /
 nav: true
 nav_order: 1
 lang: en
-subtitle: Atmospheric Scientist | Tropical Dynamics and Convective Organization
+subtitle: Atmospheric Physics | Tropical Dynamics and Convective Organization
 
 profile:
   align: right
@@ -28,7 +28,7 @@ Alexander von Humboldt Research Fellow, Max Planck Institute for Meteorology, Ha
 
 ### Understanding how moist convection organizes the climate system
 
-I am an atmospheric scientist studying tropical dynamics and the large-scale organization of moist convection.  
+I am an atmospheric physicist studying tropical dynamics and the large-scale organization of moist convection.  
 My research seeks to clarify how small-scale convective processes interact with large-scale circulation to shape climate structure and variability.
 
 A central theme of my work is the self-organization of clouds and moist convection in idealized climate systems.  
