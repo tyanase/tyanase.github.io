@@ -1,8 +1,8 @@
 ---
 layout: about
-title: About
+title: 概要
 permalink: /ja/
-nav: false
+nav: true
 lang: ja
 subtitle: 大気物理学 | 熱帯力学と湿潤対流の組織化
 

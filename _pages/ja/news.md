@@ -1,6 +1,6 @@
 ---
 layout: page
-title: News
+title: ニュース
 permalink: /ja/news/
 nav: true
 nav_order: 2
