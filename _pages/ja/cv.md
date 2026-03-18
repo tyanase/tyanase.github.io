@@ -2,7 +2,7 @@
 layout: page
 permalink: /ja/cv/
 title: 履歴
-nav: false
+nav: true
 nav_order: 3
 lang: ja
 ---

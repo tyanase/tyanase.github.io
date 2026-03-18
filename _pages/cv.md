@@ -4,6 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 3
+lang: en
 ---
 
 ## Tomoro Yanase, Ph.D.
