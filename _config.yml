@@ -163,6 +163,10 @@ collections:
     defaults:
       layout: post
     output: true
+  news_ja:
+    defaults:
+      layout: post
+    output: true
   projects:
     output: true
   teachings:
