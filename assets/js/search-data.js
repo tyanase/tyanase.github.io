@@ -9,29 +9,36 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-about",
+  },{id: "nav-概要",
+          title: "概要",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/ja/";
+          },
+        },{id: "nav-about",
           title: "About",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/";
           },
-        },{id: "nav-news",
-          title: "News",
+        },{id: "nav-ニュース",
+          title: "ニュース",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/ja/news/";
           },
         },{id: "nav-news",
-          title: "news",
+          title: "News",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/news/";
           },
-        },{id: "nav-履歴",
-          title: "履歴",
+        },{id: "nav-cv",
+          title: "CV",
           description: "",
           section: "Navigation",
           handler: () => {
