@@ -375,13 +375,23 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "news-started-a-research-stay-at-mpi-m-under-avh-fellowship",
+          title: 'Started a research stay at MPI-M under AvH Fellowship',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-10-02-site/";
             },},{id: "news-website-migration-to-al-folio-work-in-progress",
           title: 'Website migration to al-folio (work in progress).',
           description: "",
           section: "News",},{id: "news-presented-at-the-5th-workshop-on-convective-organization-são-josé-dos-campos-brazil",
           title: 'Presented at the 5th Workshop on Convective Organization (São José dos Campos, Brazil)....',
           description: "",
-          section: "News",},{id: "news_ja-ウェブサイトをal-folioに移行しました",
+          section: "News",},{id: "news_ja-フンボルト研究フェローシップによりマックス-プランク気象研究所での研究滞在を開始しました",
+          title: 'フンボルト研究フェローシップによりマックス・プランク気象研究所での研究滞在を開始しました',
+          description: "",
+          section: "News_ja",handler: () => {
+              window.location.href = "/news_ja/2025-10-02-site/";
+            },},{id: "news_ja-ウェブサイトをal-folioに移行しました",
           title: 'ウェブサイトをal-folioに移行しました。',
           description: "",
           section: "News_ja",},{id: "news_ja-5th-workshop-on-convective-organization-são-josé-dos-campos-brazil-で研究発表を行いました",
