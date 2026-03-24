@@ -380,7 +380,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-10-02-site/";
-            },},{id: "news-website-migration-to-al-folio-work-in-progress",
+            },},{id: "news-presented-at-the-hanami-high-level-symposium-2nd-edition-chamonix-france",
+          title: 'Presented at the HANAMI HIGH-LEVEL SYMPOSIUM 2ND EDITION (Chamonix, France).',
+          description: "",
+          section: "News",},{id: "news-website-migration-to-al-folio-work-in-progress",
           title: 'Website migration to al-folio (work in progress).',
           description: "",
           section: "News",},{id: "news-presented-at-the-5th-workshop-on-convective-organization-são-josé-dos-campos-brazil",
@@ -391,7 +394,10 @@ ninja.data = [{
           description: "",
           section: "News_ja",handler: () => {
               window.location.href = "/news_ja/2025-10-02-site/";
-            },},{id: "news_ja-ウェブサイトをal-folioに移行しました",
+            },},{id: "news_ja-hanami-high-level-symposium-2nd-edition-chamonix-france-で研究発表を行いました",
+          title: 'HANAMI HIGH-LEVEL SYMPOSIUM 2ND EDITION (Chamonix, France)で研究発表を行いました。',
+          description: "",
+          section: "News_ja",},{id: "news_ja-ウェブサイトをal-folioに移行しました",
           title: 'ウェブサイトをal-folioに移行しました。',
           description: "",
           section: "News_ja",},{id: "news_ja-5th-workshop-on-convective-organization-são-josé-dos-campos-brazil-で研究発表を行いました",
