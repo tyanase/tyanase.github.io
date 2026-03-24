@@ -386,8 +386,8 @@ ninja.data = [{
           section: "News",},{id: "news-presented-at-the-5th-workshop-on-convective-organization-são-josé-dos-campos-brazil",
           title: 'Presented at the 5th Workshop on Convective Organization (São José dos Campos, Brazil)....',
           description: "",
-          section: "News",},{id: "news_ja-フンボルト研究フェローシップによりマックス-プランク気象研究所での研究滞在を開始しました",
-          title: 'フンボルト研究フェローシップによりマックス・プランク気象研究所での研究滞在を開始しました',
+          section: "News",},{id: "news_ja-マックス-プランク気象研究所での研究滞在を開始しました",
+          title: 'マックス・プランク気象研究所での研究滞在を開始しました',
           description: "",
           section: "News_ja",handler: () => {
               window.location.href = "/news_ja/2025-10-02-site/";
