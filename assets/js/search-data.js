@@ -395,7 +395,12 @@ ninja.data = [{
           section: "News",},{id: "news-presented-at-the-moist-convective-dynamics-of-monsoons-ii-bengaluru-india",
           title: 'Presented at the Moist convective dynamics of Monsoons - II (Bengaluru, India).',
           description: "",
-          section: "News",},{id: "news_ja-マックス-プランク気象研究所での研究滞在を開始しました",
+          section: "News",},{id: "news-preprint-on-zonal-convective-self-aggregation-is-now-available",
+          title: 'Preprint on zonal convective self-aggregation is now available',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-05-18-site/";
+            },},{id: "news_ja-マックス-プランク気象研究所での研究滞在を開始しました",
           title: 'マックス・プランク気象研究所での研究滞在を開始しました',
           description: "",
           section: "News_ja",handler: () => {
@@ -415,7 +420,12 @@ ninja.data = [{
           section: "News_ja",},{id: "news_ja-moist-convective-dynamics-of-monsoons-ii-bengaluru-india-で講義と研究発表を行いました",
           title: 'Moist convective dynamics of Monsoons - II (Bengaluru, India)で講義と研究発表を行いました。',
           description: "",
-          section: "News_ja",},{id: "projects-project-1",
+          section: "News_ja",},{id: "news_ja-東西方向の対流自己集合化に関するプレプリントを公開しました",
+          title: '東西方向の対流自己集合化に関するプレプリントを公開しました',
+          description: "",
+          section: "News_ja",handler: () => {
+              window.location.href = "/news_ja/2026-05-18-site/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
