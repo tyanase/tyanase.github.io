@@ -400,8 +400,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-05-18-site/";
-            },},{id: "news-participated-in-the-annual-meeting-of-the-alexander-von-humboldt-foundation-berlin-germany-amp-lt-a-amp-gt",
-          title: 'Participated in the Annual Meeting of the Alexander von Humboldt Foundation (Berlin, Germany)&amp;amp;lt;/a&amp;amp;gt;....',
+            },},{id: "news-participated-in-the-annual-meeting-of-the-alexander-von-humboldt-foundation-berlin-germany",
+          title: 'Participated in the Annual Meeting of the Alexander von Humboldt Foundation (Berlin, Germany)....',
           description: "",
           section: "News",},{id: "news_ja-マックス-プランク気象研究所での研究滞在を開始しました",
           title: 'マックス・プランク気象研究所での研究滞在を開始しました',
