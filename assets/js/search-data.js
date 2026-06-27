@@ -428,8 +428,8 @@ ninja.data = [{
           description: "",
           section: "News_ja",handler: () => {
               window.location.href = "/news_ja/2026-05-18-site/";
-            },},{id: "news_ja-フンボルト財団年次総会に参加しました",
-          title: 'フンボルト財団年次総会に参加しました。',
+            },},{id: "news_ja-フンボルト財団年次総会-berlin-germany-に参加しました",
+          title: 'フンボルト財団年次総会(Berlin, Germany)に参加しました。',
           description: "",
           section: "News_ja",},{id: "projects-project-1",
           title: 'project 1',
