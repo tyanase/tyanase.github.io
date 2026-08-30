@@ -409,7 +409,12 @@ ninja.data = [{
           section: "News",},{id: "news-presented-at-the-aogs2026-fukuoka-japan",
           title: 'Presented at the AOGS2026 (Fukuoka, Japan).',
           description: "",
-          section: "News",},{id: "news_ja-マックス-プランク気象研究所での研究滞在を開始しました",
+          section: "News",},{id: "news-commentary-on-mechanism-of-self-aggregation-of-moist-convection-is-now-available-in-japanese",
+          title: 'Commentary on Mechanism of Self‒Aggregation of Moist Convection is now available (in Japanese)...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-08-31-site/";
+            },},{id: "news_ja-マックス-プランク気象研究所での研究滞在を開始しました",
           title: 'マックス・プランク気象研究所での研究滞在を開始しました',
           description: "",
           section: "News_ja",handler: () => {
@@ -443,7 +448,12 @@ ninja.data = [{
           section: "News_ja",},{id: "news_ja-aogs2026-fukuoka-japan-で研究発表を行いました",
           title: 'AOGS2026 (Fukuoka, Japan)で研究発表を行いました。',
           description: "",
-          section: "News_ja",},{id: "projects-project-1",
+          section: "News_ja",},{id: "news_ja-湿潤対流の自己集合化メカニズムに関する解説記事が公開されました",
+          title: '湿潤対流の自己集合化メカニズムに関する解説記事が公開されました',
+          description: "",
+          section: "News_ja",handler: () => {
+              window.location.href = "/news_ja/2026-08-31-site/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
