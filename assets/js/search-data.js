@@ -414,6 +414,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-08-31-site/";
+            },},{id: "news-completed-a-research-stay-at-mpi-m-under-avh-fellowship",
+          title: 'Completed a research stay at MPI-M under AvH Fellowship',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-09-25-site/";
             },},{id: "news_ja-マックス-プランク気象研究所での研究滞在を開始しました",
           title: 'マックス・プランク気象研究所での研究滞在を開始しました',
           description: "",
@@ -453,6 +458,11 @@ ninja.data = [{
           description: "",
           section: "News_ja",handler: () => {
               window.location.href = "/news_ja/2026-08-31-site/";
+            },},{id: "news_ja-マックス-プランク気象研究所での研究滞在を終了しました",
+          title: 'マックス・プランク気象研究所での研究滞在を終了しました',
+          description: "",
+          section: "News_ja",handler: () => {
+              window.location.href = "/news_ja/2026-09-25-site/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
