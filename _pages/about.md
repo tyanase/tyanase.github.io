@@ -22,8 +22,6 @@ selected_papers: false
 
 Assistant Professor, University of Hyogo, Kobe, Japan
 
-Alexander von Humboldt Research Fellow, Max Planck Institute for Meteorology, Hamburg, Germany
-
 ***
 
 ### Understanding how moist convection organizes the climate system
