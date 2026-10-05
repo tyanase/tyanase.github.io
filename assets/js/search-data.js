@@ -419,6 +419,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-09-25-site/";
+            },},{id: "news-paper-on-zonal-convective-self-aggregation-was-published",
+          title: 'Paper on zonal convective self-aggregation was published',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-10-04-site/";
             },},{id: "news_ja-マックス-プランク気象研究所での研究滞在を開始しました",
           title: 'マックス・プランク気象研究所での研究滞在を開始しました',
           description: "",
@@ -463,6 +468,11 @@ ninja.data = [{
           description: "",
           section: "News_ja",handler: () => {
               window.location.href = "/news_ja/2026-09-25-site/";
+            },},{id: "news_ja-東西方向の対流自己集合化に関する論文が掲載されました",
+          title: '東西方向の対流自己集合化に関する論文が掲載されました',
+          description: "",
+          section: "News_ja",handler: () => {
+              window.location.href = "/news_ja/2026-10-04-site/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
