@@ -90,5 +90,4 @@ E-mail: yanase [at] gsis.u-hyogo.ac.jp
 - [ORCID](https://orcid.org/0000-0003-2788-9092)
 - [Publons](https://publons.com/researcher/4230700/tomoro-yanase/)
 - [GitHub](https://github.com/tyanase)
-- [Facebook](https://www.facebook.com/tomorou.yanase)
 - [Twitter](https://twitter.com/tomoroyanase)
