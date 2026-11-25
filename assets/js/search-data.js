@@ -424,6 +424,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-10-04-site/";
+            },},{id: "news-preprint-on-atlantic-itcz-variability-is-now-available",
+          title: 'Preprint on Atlantic ITCZ variability is now available',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-11-25-site/";
             },},{id: "news_ja-マックス-プランク気象研究所での研究滞在を開始しました",
           title: 'マックス・プランク気象研究所での研究滞在を開始しました',
           description: "",
@@ -473,6 +478,11 @@ ninja.data = [{
           description: "",
           section: "News_ja",handler: () => {
               window.location.href = "/news_ja/2026-10-04-site/";
+            },},{id: "news_ja-大西洋熱帯収束帯の変動性に関するプレプリントを公開しました",
+          title: '大西洋熱帯収束帯の変動性に関するプレプリントを公開しました',
+          description: "",
+          section: "News_ja",handler: () => {
+              window.location.href = "/news_ja/2026-11-25-site/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
